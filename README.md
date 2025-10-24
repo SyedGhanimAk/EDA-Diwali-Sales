@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-on-Sales-Dataset
+# Exploratory-Data-Analysis-on-Diwali-Sales-Dataset
 
 ## Overview
 
