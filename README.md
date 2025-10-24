@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project performs **Exploratory Data Analysis (EDA)** on a sales dataset to identify potential customers and improve sales strategy. It focuses on understanding customer demographics, buying patterns, and top-selling products to assist in business and inventory planning.
+This project performs **Exploratory Data Analysis (EDA)** on a Diwali sales dataset to identify potential customers and improve sales strategy. It focuses on understanding customer demographics, buying patterns, and top-selling products to assist in business and inventory planning.
 
 ## Data Cleaning & Processing
 
